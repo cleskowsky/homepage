@@ -3,6 +3,6 @@ title: Home
 id: home
 template: home
 blueprint: home
-subtitle: I see pride. I see power.
+subtitle: Writing helps me think. :)
 ---
-I see a bad-ass mother who don't take no crap off of nobody.
+Of fraggles, smurfs and sad little robots
